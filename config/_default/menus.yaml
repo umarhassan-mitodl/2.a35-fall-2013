@@ -1,0 +1,28 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 263445f0-d1de-705f-b647-ba114434dbdd
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: abc2a60f-fb16-8421-a8fb-76eb80632f82
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: bc3ef9d0-f428-8411-5151-b4e8af764727
+  name: Calendar and Readings
+  pageRef: /pages/calendar-and-readings
+  weight: 30
+- identifier: 20cb1e28-7007-1ed7-682b-29680ed42566
+  name: Biomimetic Principles
+  pageRef: /pages/biomimetic-principles/
+  weight: 40
+- identifier: bec69de0-cdac-552b-3e23-dfce74ec3403
+  name: Steps in the Biomimetic Method
+  pageRef: /pages/biomimetic-principles/steps-in-the-biomimetic-method
+  parent: 20cb1e28-7007-1ed7-682b-29680ed42566
+  weight: 50
+- identifier: 3b826f30-262d-e568-557c-ba10068b0e76
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60

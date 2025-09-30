@@ -1,0 +1,69 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biophysics"
+    ]
+  ],
+  "legacy_uid": "063120ed-e12e-ae4d-cb23-edb33912b3a3",
+  "instructors": {
+    "content": [
+      "fe578240-c5f9-a069-7bc9-ba4b41e3a804"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "34443a93-a4a1-f105-96bb-7ba42c99cb69",
+    "website": "2-a35-biomimetic-principles-and-design-fall-2013"
+  },
+  "course_title": "Biomimetic Principles and Design",
+  "hide_download": true,
+  "course_description": "Biomimetics is based on the belief that nature, at least at times, is a good engineer. Biomimesis is the scientific method of learning new principles and processes based on systematic study, observation and experimentation with live animals and organisms. This Freshman Advising Seminar on the topic is a way for freshmen to explore some of MIT's richness and learn more about what they may want to study in later years.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.A35",
+  "course_image_thumbnail": {
+    "content": "b3961423-3ee3-2213-3bc7-a95a79bfefa0",
+    "website": "2-a35-biomimetic-principles-and-design-fall-2013"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "02199e9d-f609-4bbf-8c92-d194b8aa92e4",
+  "site_short_id": "2.a35-fall-2013",
+  "site_url_path": "courses/2-a35-biomimetic-principles-and-design-fall-2013",
+  "title": "Course Metadata"
+}
